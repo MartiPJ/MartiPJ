@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **restaurant management**
 
-- 👯 I’m looking to collaborate on **University project management**
-
 - 📫 How to reach me **martiperezjuarez2@gmail.com**
 
 <p align="left">

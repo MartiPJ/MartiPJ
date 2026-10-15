@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack developer with experience in web application and API development. I optimize data persistence using structured queries. I excel at diagnosing and resolving critical technical issues in production environments, as well as efficiently using artificial intelligence tools to improve and resolve problems more effectively and provide rapid solutions. I am always willing to research and continue learning. Committed to code quality, scalability, and good development practices, I can also adapt quickly to new work environments, maintaining clear and effective communication.</h3>
 
 
-- 🔭 I’m currently working on **restaurant management**
+- 🔭 I’m currently working on **digital catalog**
 
 - 📫 How to reach me **martiperezjuarez2@gmail.com**
 
